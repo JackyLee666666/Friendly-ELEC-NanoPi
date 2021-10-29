@@ -28,7 +28,7 @@
     * [3.3.2  小朋友编译](3-gu-jian/3.3-r2c-di-san-fang-gu-jian/3.3.2-xiao-peng-you-bian-yi.md)
     * [3.3.3  Klever1988编译固件](3-gu-jian/3.3-r2c-di-san-fang-gu-jian/3.3.3-klever1988-bian-yi-gu-jian.md)
 * [4  XX上网的图文使用教程](4-xx-shang-wang-de-tu-wen-shi-yong-jiao-cheng/README.md)
-  * [4.1  Passwall的图文教程](4-xx-shang-wang-de-tu-wen-shi-yong-jiao-cheng/4.1-passwall-de-tu-wen-jiao-cheng.md)
+  * [4.1  P@ssw@ll的图文教程](4-xx-shang-wang-de-tu-wen-shi-yong-jiao-cheng/4.1-passwall-de-tu-wen-jiao-cheng.md)
   * [4.2  HelloWorld的图文教程](4-xx-shang-wang-de-tu-wen-shi-yong-jiao-cheng/4.2-helloworld-de-tu-wen-jiao-cheng.md)
   * [4.3  ShdowsocksR Plus+的图文教程](4-xx-shang-wang-de-tu-wen-shi-yong-jiao-cheng/4.3-shdowsocksr-plus+-de-tu-wen-jiao-cheng.md)
   * [4.4  OpenClash的图文教程](4-xx-shang-wang-de-tu-wen-shi-yong-jiao-cheng/4.4-openclash-de-tu-wen-jiao-cheng.md)
