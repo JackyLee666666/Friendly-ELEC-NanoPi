@@ -53,6 +53,4 @@
   * [7.11  推荐网络拓扑图](6-chang-jian-wen-ti-ji-zhu-yi-shi-xiang/6.11-tui-jian-wang-luo-tuo-pu-tu.md)
   * [7.12  AP模式下无线路由器进不去后台](6-chang-jian-wen-ti-ji-zhu-yi-shi-xiang/6.12-ap-mo-shi-xia-wu-xian-lu-you-qi-jin-bu-qu-hou-tai.md)
   * [7.13  PPPoE拨号不成功](6-chang-jian-wen-ti-ji-zhu-yi-shi-xiang/6.13-pppoe-bo-hao-bu-cheng-gong.md)
-* [8  机场推荐](8-ji-chang-tui-jian/README.md)
-  * [8.1  IPLC极致专线](8-ji-chang-tui-jian/8.1-iplc-ji-zhi-zhuan-xian.md)
-  * [8.2  MaTrix](8-ji-chang-tui-jian/8.2-matrix.md)
+* [8  机场推荐](8-ji-chang-tui-jian.md)
