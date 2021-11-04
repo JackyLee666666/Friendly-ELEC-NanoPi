@@ -1,8 +1,8 @@
 ---
-description: 如果是用手机打开，注意点击左侧的“三道杠”来打开菜单
+description: 小技巧：如果是用手机打开，注意点击左侧的“三道杠”来打开菜单
 ---
 
-# Friendly ELEC NanoPi
+# Friendly NanoPi R2S/R4S
 
 ![](.gitbook/assets/01-1500×666.png)
 
