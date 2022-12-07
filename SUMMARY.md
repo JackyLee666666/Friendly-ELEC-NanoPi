@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Friendly NanoPi R2S/R4S](README.md)
-* [1 R2S/R4S接线通网教程](1-ji-qi-chu-ru-shou/README.md)
+* [ARM软路由](README.md)
+* [1 R2S/R4S/R4SE/R5S接线通网图文教程](1-ji-qi-chu-ru-shou/README.md)
   * [1.1 确定家中网络拨号类型](1-ji-qi-chu-ru-shou/1.2-que-ding-jia-zhong-wang-luo-bo-hao-lei-xing.md)
   * [1.2 猫拨号如何配置网络](1-ji-qi-chu-ru-shou/1.3-mao-bo-hao-ru-he-pei-zhi-wang-luo.md)
   * [1.3 路由器拨号如何配置网络](1-ji-qi-chu-ru-shou/1.4-lu-you-qi-bo-hao-ru-he-pei-zhi-wang-luo.md)
